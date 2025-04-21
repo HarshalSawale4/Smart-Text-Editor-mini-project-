@@ -13,8 +13,8 @@ A lightweight, browser-based text editor with smart features like formatting, wo
 
 ## 📸 Screenshots
 
-![Smart Text Editor Light Mode](screenshots/light-mode.png)
-![Smart Text Editor Dark Mode](screenshots/dark-mode.png)
+![Smart Text Editor Light Mode](Screenshot/Screenshot 2025-04-21 225549.png)
+![Smart Text Editor Dark Mode](Screenshot/Screenshot 2025-04-21 225549.png)
 
 ## 🛠️ Tech Stack
 
