@@ -13,10 +13,10 @@ A lightweight, browser-based text editor with smart features like formatting, wo
 
 ## 📸 Screenshots
 
-### ✨ Light Mode
+### ✨ Dark Mode
 ![Light Mode](Screenshot/Screenshot%202025-04-21%20224940.png)
 
-### 🌙 Dark Mode
+### 🌙 Light Mode
 ![Dark Mode](Screenshot/Screenshot%202025-04-21%20225549.png)
 
 ## 🛠️ Tech Stack
