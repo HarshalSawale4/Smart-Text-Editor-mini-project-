@@ -9,7 +9,6 @@ A lightweight, browser-based text editor with smart features like formatting, wo
 - 🔢 Real-time word counter
 - 💾 Download your notes as a `.txt` file
 - ⚡ Responsive and modern UI
-- 🔐 No backend required — fully client-side
 
 ## 📸 Screenshots
 
