@@ -13,15 +13,16 @@ A lightweight, browser-based text editor with smart features like formatting, wo
 
 ## 📸 Screenshots
 
-![Smart Text Editor Light Mode](Screenshot/Screenshot 2025-04-21 225549.png)
-![Smart Text Editor Dark Mode](Screenshot/Screenshot 2025-04-21 225549.png)
+### ✨ Light Mode
+![Light Mode](Screenshot/Screenshot%202025-04-21%20224940.png)
+
+### 🌙 Dark Mode
+![Dark Mode](Screenshot/Screenshot%202025-04-21%20225549.png)
 
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3 (with transitions)
-- Vanilla JavaScript (no frameworks)
-
-## 📂 Project Structure
+- CSS3 
+- JavaScript 
 
 
