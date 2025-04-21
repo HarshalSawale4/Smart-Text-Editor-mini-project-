@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smart Text Editor</title>
+  <link rel="stylesheet" href="editor.css" >
+  
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Smart Text Editor</h1>
+      <div class="toolbar">
+        <button onclick="formatText('bold')">Bold</button>
+        <button onclick="formatText('italic')">Italic</button>
+        <button onclick="formatText('underline')">Underline</button>
+        <button onclick="toggleTheme()">Toggle Theme</button>
+        <button onclick="downloadText()">Download</button>
+        <span id="wordCount">Words: 0</span>
+      </div>
+    </header>
+    <main>
+      <div id="editor" contenteditable="true" oninput="updateWordCount()"></div>
+    </main>
+  </div>
+
+  <script src="editor.js"></script>
+</body>
+</html>
